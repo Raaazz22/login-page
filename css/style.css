@@ -1,0 +1,53 @@
+body{
+	background-color:#26356e;
+}
+#main{
+  height:500px;
+  width:700px;
+  background-color:#1a368a;
+  margin:60px auto;
+  box-shadow:0px 2px 25px white ;
+  
+}
+
+#row1{
+  height:30px;
+  width:600px;
+}
+
+#row2{
+  height:100px;
+  width:500px;
+  color:white;
+  font-size:40px;
+  margin:0px 50px 0px 50px;
+}
+#row3{
+  height:150px;
+  width:500px;
+  color:white;
+  font-size:40px;
+  margin:0px 50px 0px 50px;
+}
+#row4{
+  height:180px;
+  width:500px;
+  margin:0px 50px 0px 50px;
+}
+#row41{
+  height:180px;
+  width:200px;
+  float:left;
+}
+#row42{
+  height:180px;
+  width:300px;
+  float:left;
+}
+
+#row2 input{
+	border-radius:15px;
+}
+#row3 input{
+	border-radius:15px;
+}
